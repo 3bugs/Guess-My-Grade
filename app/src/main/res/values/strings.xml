@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Guess My Grade</string>
+    <string name="main_title">ลองทายเกรดของคุณดู ^_^</string>
+    <string name="student_list_title">ผลเกรดของนักศึกษาทั้งหมด</string>
+    <string name="facebook_app_id">1129497267075397</string>
+    <string name="show_grade_title"></string>
+
+    <!--
+    <string name="facebook_dev_key_hash">jA2Rxp+G+5WjIDwvep99Fig3qIg=</string>
+    <string name="facebook_app_secret">51a3ef487b2183ac5714e316d3bdb537</string>
+-->
+</resources>
